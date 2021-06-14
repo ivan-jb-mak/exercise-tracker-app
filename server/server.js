@@ -11,8 +11,7 @@ const app = express();
 const port = process.env.PORT || 5000;
 
 // middleware with cors
-app.use(cors({ origin: "http://localhost:3000" }));
-// app.use(cors({ origin: "https://developerbook.me" }));
+app.use(cors({ origin: "exercise-tracker-react.netlify.app" }));
 app.use(express.json()); //to parse json
 
 const uri = process.env.ATLAS_URI;
