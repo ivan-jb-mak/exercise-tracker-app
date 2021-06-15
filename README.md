@@ -14,46 +14,33 @@ https://exercise-tracker-react.netlify.app/
 
 ## Tech Stack
 
-- MongoDB
-- Express
-- ReactJS
-- NodeJS
-- Bootstrap
+- [MongoDB](https://www.mongodb.com/)
+- [Express](https://expressjs.com/)
+- [ReactJS](https://reactjs.org/)
+- [NodeJS](https://nodejs.org/en/)
+- [Bootstrap](https://getbootstrap.com/)
 
 ## Demo
-### Landing Page
 
-![alt text](https://github.com/ivan-jb-mak/DevBook/blob/master/screenshots/LandingPage.JPG "Landing Page")
+### View All Exercises
+![alt text](https://github.com/ivan-jb-mak/exercise-tracker-app/blob/master/gifs/Exercises.JPG "View All Exercises")
 
-### User Authentication
-![alt text](https://github.com/ivan-jb-mak/DevBook/blob/master/screenshots/UserAuthentication.gif "User Authentication")
+### Create User
+![alt text](https://github.com/ivan-jb-mak/exercise-tracker-app/blob/master/gifs/CreateUser.gif "Create User")
 
-### Create Profile
-![alt text](https://github.com/ivan-jb-mak/DevBook/blob/master/screenshots/AddProfile.gif "Create Profile")
+### Create Exercise
+![alt text](https://github.com/ivan-jb-mak/exercise-tracker-app/blob/master/gifs/CreateExercise.gif "Create Exercise")
 
-### View All Profiles
-![alt text](https://github.com/ivan-jb-mak/DevBook/blob/master/screenshots/ViewProfiles.gif "View Profiles")
+### Edit Exercise
+![alt text](https://github.com/ivan-jb-mak/exercise-tracker-app/blob/master/gifs/EditExercise.gif "Edit Exercise")
 
-### Add Education / Experience
-![alt text](https://github.com/ivan-jb-mak/DevBook/blob/master/screenshots/AddExperience.gif "Add Experience/Education")
-
-### Delete Education / Experience
-![alt text](https://github.com/ivan-jb-mak/DevBook/blob/master/screenshots/DeleteEduExp.gif "Delete Experience/Education")
-
-### Create Post
-![alt text](https://github.com/ivan-jb-mak/DevBook/blob/master/screenshots/AddPost.gif "Add Post")
-
-### Add / Delete Post Comments
-![alt text](https://github.com/ivan-jb-mak/DevBook/blob/master/screenshots/AddDeleteComment.gif "Add/Delete Comment")
-
-### Delete Account
-![alt text](https://github.com/ivan-jb-mak/DevBook/blob/master/screenshots/DeleteAccount.gif "Delete Account")
+### Delete Exercise
+![alt text](https://github.com/ivan-jb-mak/exercise-tracker-app/blob/master/gifs/DeleteExercise.gif "Delete Exercise")
 
 
 ## Dependencies
 
 **Back End (Server):**
-
 - cors
 - express
 - dotenv
@@ -61,7 +48,6 @@ https://exercise-tracker-react.netlify.app/
 
 
 **Front End (Client):**
-
 - axios
 - bootstrap
 - react
